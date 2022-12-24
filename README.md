@@ -1,5 +1,5 @@
 # 
 
--Tales
--André
--Maria Luz
+- Tales
+- André
+- Maria Luz
