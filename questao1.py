@@ -53,8 +53,8 @@ def maiorManeira(n,peso):
     return maiorPilha
 
 print(maneirasPossiveis(200))
-#print(maiorManeira(200, (1.52,1.85,1.89,2.05,1.7,1.78,2.8,2.5)))
-#print(maiorManeira(200, (3.56,7.12,3.25,6.5,5,8,8.75,12)))
+print(maiorManeira(200, (1.52,1.85,1.89,2.05,1.7,1.78,2.8,2.5)))
+print(maiorManeira(200, (3.56,7.12,3.25,6.5,5,8,8.75,12)))
 
         
 
